@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Welcome to Jiachuan Xu's Homepage!"
+title: 
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-![The Weak Lensing Hat-trick!](/images/WLHatTrick.png)
+![The Weak Lensing Hat-trick!](/images/WLHatTrick.jpg)
 
 I am Jiachuan Xu (徐家川), a Ph.D. candidate at the Steward Observatory and Department of Astronomy, The University of Arizona. I'm from Tianjin, a livable harbour city in China. I am a member of [AZCosmosLab](https://cosmolab.arizona.edu/), where I do all the exciting research to understand our Universe through weak gravitational lensing! 
 

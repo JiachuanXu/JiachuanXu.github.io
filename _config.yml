@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
+  name             : "Jiachuan Xu (徐家川)"
+  avatar           : "JiachuanXu.JPG"
+  bio              : "Ph.D. Candidate in Astronomy"
+  location         : "Tucson, AZ"
+  employer         : "The University of Arizona"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "jiachuanxu@arizona.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -95,13 +95,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "JiachuanXu"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/jiachuan-xu-1674bb167/"
+  orcid            : "https://orcid.org/0000-0003-0871-8941"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
